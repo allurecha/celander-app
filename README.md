@@ -1,3 +1,3 @@
 # Celander
 
-Website und Datenschutzerklärung der Android-App Celander: https://schlttnr.github.io/celander-app/
+Website und Datenschutzerklärung der Android-App Celander: https://allurecha.github.io/celander-app/
